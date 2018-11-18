@@ -4,6 +4,7 @@
 
 | Acción | Combinación de teclas |
 | ------ | --------------------- |
+| Abrir una pestaña ventana | Ctrl + N
 | Abrir una pestaña nueva y acceder a ella | Ctrl + T
 | Volver a abrir la última pestaña cerrada y acceder a ella	| Ctrl + Mayús + T
 | Ir a la siguiente pestaña abierta	| Ctrl + Tabulador o Ctrl + AvPág
